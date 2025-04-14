@@ -18,7 +18,7 @@ It allows users to search the latest news articles by any keyword — such as "A
 
 ## 🚀 Demo
 
-![screenshot](demo_screenshot.png)
+![screenshot](image.png)
 
 ---
 
