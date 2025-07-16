@@ -10,10 +10,9 @@ It allows users to search the latest news articles by any keyword — such as "A
 
 ## ✨ Features
 
-- 🔍 Keyword-based news search (no fixed categories)
+- 🔍 Keyword-based news search
 - 📰 Fetches latest news using NewsAPI's `everything` endpoint
 - 🌍 Global news in English
-- 🧱 Responsive 3-column layout
 - 🖼️ Article images, publish date, source, and direct links
 - ⚡ Fast and lightweight UI powered by Streamlit
 
