@@ -1,4 +1,3 @@
-Here's an updated version of the README that includes information about setting up a **virtual environment** and other necessary details for your **News Aggregator web app**:
 
 ---
 
